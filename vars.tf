@@ -1,7 +1,7 @@
-variable "resource_group" {
+variable "resource_name" {
   description = "resource group name"
 }
 
-variable "subnet" {
+variable "subnet_name" {
   description = "subnet name"
 }
