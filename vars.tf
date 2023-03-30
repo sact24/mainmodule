@@ -5,5 +5,5 @@ variable "resource_name" {
 
 variable "subnet_name" {
   description = "subnet name"
-  default = "naya group"
+  default = "nayasubnet"
 }
