@@ -5,7 +5,7 @@ provider "azurerm" {
 
 
 resource "azurerm_resource_group" "rg" {
-  name     = "jokamoka"
+  name     = "llklkl"
   location = "centralindia"
 }
 
